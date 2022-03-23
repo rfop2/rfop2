@@ -1,4 +1,5 @@
-## Hello, World! Eu sou Rodrigo Ferreira, web developer e estudante de ciência da computação na UFPE. Atualmente faço estágio na Viana& Moura. Linguagens/bibliotecas que eu conheço bem: Javascript, PHP, HTML e CSS.
+## Hello, World! Eu sou Rodrigo Ferreira, web developer e estudante de ciência da computação na UFPE. 
+Atualmente faço estágio na Viana& Moura. Linguagens/bibliotecas que eu conheço bem: Javascript, PHP, HTML e CSS.
 <div align="center">
   <a href="https://github.com/rfop2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfop2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
