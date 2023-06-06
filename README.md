@@ -1,4 +1,4 @@
-## Hello, World! Eu sou Rodrigo Ferreira, web developer e estudante de ciência da computação na UFPE. 
+## Hello, World! Eu sou Rodrigo Ferreira, web developer.
 Atualmente trabalho na Viana& Moura como analista júnior. Linguagens/bibliotecas que eu conheço bem: Java, Javascript, PHP, HTML e CSS.
 <div align="center">
   <a href="https://github.com/rfop2">
