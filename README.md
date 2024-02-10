@@ -1,10 +1,5 @@
 ## Hello, World! Eu sou Rodrigo Ferreira, web developer.
 Atualmente trabalho na Fricon como analista júnior. Linguagens/bibliotecas que eu conheço bem: Java, Javascript, PHP, HTML e CSS.
-<div align="center">
-  <a href="https://github.com/rfop2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfop2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfop2&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rfop-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rfop-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
