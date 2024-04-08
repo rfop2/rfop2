@@ -1,5 +1,5 @@
 ## Hello, World! Eu sou Rodrigo Ferreira, web developer.
-Atualmente trabalho na Fricon como analista júnior. Linguagens/bibliotecas que eu conheço bem: Java, Javascript, PHP, HTML e CSS.
+Tenho interesse em todas as etapas do desenvolvimento de software
 
 ##
   
