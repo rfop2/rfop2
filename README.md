@@ -1,4 +1,4 @@
-## Hello, World! Eu sou Rodrigo Ferreira, web developer.
+## Hello, World! Eu sou Rodrigo Ferreira, developer.
 Tenho interesse em todas as etapas do desenvolvimento de software
 
 ##
